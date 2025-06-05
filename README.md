@@ -1,7 +1,9 @@
 ## Hi there 👋
 It's a ✨ _special_ ✨ repository because it talks about me *-*
  
-Meu Breve Sobre 🇧🇷
+🇧🇷
+
+Meu Breve Sobre
 
 Sou uma profissional com experiência em Recursos Humanos, especialmente como Tech Recruiter, e atualmente em transição de carreira para a área de Quality Assurance (QA).
 Durante minha trajetória, desenvolvi habilidades como atenção aos detalhes, gestão de projetos, colaboração em equipe e interesse genuíno por tecnologia.
@@ -16,7 +18,9 @@ Estou aberta a dicas, vagas (estágio ou jr), feedbacks e conexões que possam a
 
 -------
 
-My Brief About 🇺🇸
+🇺🇸
+
+My Brief About
 
 I am a professional with experience in Human Resources, especially as a Tech Recruiter, and I am currently transitioning into the Quality Assurance (QA) field.
 Throughout my career, I have developed skills such as attention to detail, project management, teamwork, and a genuine interest in technology.
